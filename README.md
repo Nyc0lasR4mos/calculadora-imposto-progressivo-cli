@@ -63,21 +63,23 @@ Para testes unitários
 >
 > Renda Líquida: R$ 5387,50
 
-**Erro**
+> [!CAUTION]
+> **Erro**
+>
+> Valor: -5500.00
+>
+> Output:
+>
+> Erro: Valor inválido. Informe um número positivo
 
-Valor: -5500.00
-
-Output:
-
-Erro: Valor inválido. Informe um número positivo
-
-**Nulo**
-
-Valor: 0
-
-Output:
-
-Valor nulo. Informe um número positivo
+> [!WARNING]
+> **Nulo**
+>
+> Valor: 0
+>
+> Output:
+>
+> Valor nulo. Informe um número positivo
 
 ## Decisões Técnicas
 
