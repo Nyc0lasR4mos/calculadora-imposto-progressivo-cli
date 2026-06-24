@@ -66,7 +66,7 @@ Para testes unitários
 > [!CAUTION]
 > **Erro**
 >
-> Valor: -5500.00
+> Valor: -5500.00 ou ***null/vazia***
 >
 > Output:
 >
@@ -79,7 +79,11 @@ Para testes unitários
 >
 > Output:
 >
-> Valor nulo. Informe um número positivo
+> Imposto Devido: R$ 0
+>
+> Alíquota Efetiva: 0%
+>
+> Renda Líquida: R$ 0
 
 ## Decisões Técnicas
 
