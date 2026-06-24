@@ -80,4 +80,5 @@ Valor nulo. Informe um número positivo
 A separação do I/O da lógica foi por conta do Princípio da Responsabilidade Única, já o tratamento de nulos foi pela validação explícita antes do processamento e o uso das constantes foi pela manutenibilidade e clareza das regras de negócio
 
 **Nycolas Ramos**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D14836)](https://github.com/Nyc0lasR4mos)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nycolas-ramos-483810399/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Nyc0lasR4mos)
