@@ -7,7 +7,7 @@ CLI em Java para cálculo progressivo de Imposto de Renda com separação de res
 | :---: | :--- | :--- | :--- |
 | 1 | R$ 0,00 | R$ 5.000,00 | 0% (isento) |
 | 2 | R$ 5.000,01 | R$ 6.500,00 | 7,5% |
-| 3 | R$ 6.500,01 | R$ 8.000,00 | 15% |
+| 3 | Acima de R$ R$ 6.500,01 | 15% |
 
 Essas alíquotas são referentes às regras do Imposto de Renda Pessoa Física (IRPF) que entraram em vigor a partir de janeiro de 2026.
 
