@@ -87,7 +87,7 @@ Para testes unitários
 
 ## Decisões Técnicas
 
-A separação do I/O da lógica foi por conta do Princípio da Responsabilidade Única, já o tratamento de nulos foi pela validação explícita antes do processamento e o uso das constantes foi pela manutenibilidade e clareza das regras de negócio
+A separação do I/O da Lógica foi feita pois a classe CalculadoraIR conterá apenas a lógica matemática, recebendo double e retornando para o sistema um objeto de resultado, já a classe Main cuidará da leitura do Scanner (Input) e impressão (Output) no System.out
 
 
 **Nycolas Ramos**
