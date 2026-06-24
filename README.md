@@ -7,7 +7,7 @@ CLI em Java para cálculo progressivo de Imposto de Renda com separação de res
 | :---: | :--- | :--- | :--- |
 | 1 | R$ 0,00 | R$ 5.000,00 | 0% (isento) |
 | 2 | R$ 5.000,01 | R$ 6.500,00 | 7,5% |
-| 3 | Acima de R$ R$ 6.500,01 | Limite | 15% |
+| 3 | > R$ 6.500,00 | Limite | 15% |
 
 Essas alíquotas são referentes às regras do Imposto de Renda Pessoa Física (IRPF) que entraram em vigor a partir de janeiro de 2026.
 
@@ -22,7 +22,7 @@ Maven instalado.
 
 Para compilar e rodar o projeto diretamente pelo Maven :
 ```
-mvn clean compile exec:java -Dexec.mainClass="com.nycolasramos.calculadorair.App"
+mvn clean compile exec:java -Dexec.mainClass="com.nycolasramos.calculadorair.Main"
 ```
 **O programa funcionará no terminal então o exemplo de entrada esperado será:**
 
