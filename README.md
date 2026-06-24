@@ -46,8 +46,9 @@ Erro: Valor inválido. Informe um número positivo.
 mvn test
 ```
 Para testes unitários
+---
 
-Abaixo temos alguns cenários com outputs *corretos, errados e nulos*
+## Abaixo temos alguns cenários com outputs *corretos, errados e nulos*
 
 **Sucesso**
 
@@ -78,6 +79,9 @@ Valor nulo. Informe um número positivo
 ## Decisões Técnicas
 
 A separação do I/O da lógica foi por conta do Princípio da Responsabilidade Única, já o tratamento de nulos foi pela validação explícita antes do processamento e o uso das constantes foi pela manutenibilidade e clareza das regras de negócio
+
+> [!IMPORTANT]
+> Informações cruciais necessárias para que os usuários obtenham sucesso.
 
 **Nycolas Ramos**
 
