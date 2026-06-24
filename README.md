@@ -50,14 +50,18 @@ Para testes unitários
 
 ## Abaixo temos alguns cenários com outputs *corretos, errados e nulos*
 
-> [!SUCESS]
-> Valor: 5500.00
-
-Output: 
-
-Imposto Devido: R$ 112,50
-Alíquota Efetiva: 2,05%
-Renda Líquida: R$ 5387,50.
+> [!TIP]
+> **Sucesso**
+>
+> **Valor:** 5500.00
+>
+> **Output:**
+>
+> Imposto Devido: R$ 112,50
+>
+> Alíquota Efetiva: 2,05%
+>
+> Renda Líquida: R$ 5387,50
 
 **Erro**
 
