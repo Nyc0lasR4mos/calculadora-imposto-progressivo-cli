@@ -19,8 +19,10 @@ Versão do Java necessária: JDK 25 ou 26.
 Maven instalado.
 
 ## Como Executar
+
+Para compilar e rodar o projeto diretamente pelo Maven :
 ```
-[COMANDO_DE_EXECUÇÃO_AQUI]
+mvn clean compile exec:java -Dexec.mainClass="com.nycolasramos.calculadorair.App"
 ```
 **O programa funcionará no terminal então o exemplo de entrada esperado será:**
 
