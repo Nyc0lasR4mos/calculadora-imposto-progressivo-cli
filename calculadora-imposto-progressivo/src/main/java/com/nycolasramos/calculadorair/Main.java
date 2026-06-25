@@ -1,5 +1,7 @@
 package com.nycolasramos.calculadorair;
 
+import java.util.Scanner;
+
 /**
  * Hello world!
  *
@@ -8,6 +10,6 @@ public class Main
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+         Scanner entrada = new Scanner(System.in);
     }
 }

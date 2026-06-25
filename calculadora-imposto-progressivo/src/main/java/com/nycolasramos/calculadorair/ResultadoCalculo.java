@@ -1,13 +1,2 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.nycolasramos.calculadorair;
-
-/**
- *
- * @author Nycoteba
- */
-public class ResultadoCalculo {
-    
-}
+// Pacote de dados, aqui deverá ter os valores: Imposto Devido, Alíquota Efetiva e Renda Líquida
+// Os valores devem 

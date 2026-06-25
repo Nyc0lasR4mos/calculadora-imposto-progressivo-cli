@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.nycolasramos.calculadorair;
-
-/**
- *
- * @author Nycoteba
- */
-public class CalculadoraIR {
-    
-}
+// Aqui vai vir a lógica do negócio, contendo as constancias das faixas
+//
+//public ResultadoCalculo calcular(double rendaBruta)
+//
+// Aqui dentro eu valido se é negativo ou não e se for lança uma exceção (ex: IllegalArgumentException)
+//
+// Se for válido faz o calculo matemático fatiado e retorna o objeto ResultadoCalculo
+//
+// Sua função é apenas receber números e devolver números
