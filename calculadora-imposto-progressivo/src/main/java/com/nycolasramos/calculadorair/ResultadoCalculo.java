@@ -1,2 +1,4 @@
-// Pacote de dados, aqui deverá ter os valores: Imposto Devido, Alíquota Efetiva e Renda Líquida
-// Os valores devem 
+package com.nycolasramos.calculadorair;
+
+public record ResultadoCalculo(double impostoDevido, double aliquotaEfetiva, double rendaLiquida) {
+}
