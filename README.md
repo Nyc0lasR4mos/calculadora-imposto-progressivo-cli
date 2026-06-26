@@ -32,8 +32,8 @@ Entrada: Usuário digita 5500.00 (ou valor inválido).
 
 Na saída correta retornará ao usuário o seguinte:
 
-Imposto Devido: R$ 112,50
-Alíquota Efetiva: 2,05%
+Imposto Devido: R$ 37.50
+Alíquota Efetiva: 0.68%
 Renda Líquida: R$ 5387,50
 
 Na saída incorreta retornará ao usuário o seguinte:
